@@ -1,5 +1,5 @@
 # Aparat Like Bot
-a simple script to read videos codes from a file and like that.
+a simple script to read video codes from a file and like that.
 
 # How to use
 First create a file that contains the video codes you want to like.
